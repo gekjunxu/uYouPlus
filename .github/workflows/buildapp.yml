@@ -18,7 +18,7 @@ on:
         type: string
       decrypted_youtube_url:
         description: "Direct URL to the decrypted YouTube ipa. The version of YouTube will be detected automatically."
-        default: ""
+        default: "https://1drv.ms/u/c/9b7a0af67721cdfa/EbeV5consnZKm_1T1sVYiG4BCQzYVp3QyvYYLC8VgZ3CXw?e=nEJC8h"
         required: true
         type: string
       bundle_id:
